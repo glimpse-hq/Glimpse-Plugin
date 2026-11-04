@@ -1,0 +1,18 @@
+{
+  "name": "glimpse",
+  "version": "1.0.0",
+  "description": "Search your Glimpse transcripts, follow live recordings, transcribe files, and ask you questions by voice. Runs on your computer.",
+  "author": { "name": "Glimpse", "url": "https://tryglimpse.cc" },
+  "homepage": "https://tryglimpse.cc/mcp/",
+  "repository": "https://github.com/glimpse-hq/Glimpse-Plugin",
+  "license": "MIT",
+  "keywords": ["dictation", "transcription", "speech-to-text", "voice", "local", "mcp"],
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Glimpse",
+    "shortDescription": "Your transcripts, live recordings and spoken answers, on your computer",
+    "category": "Productivity",
+    "websiteURL": "https://tryglimpse.cc",
+    "composerIcon": "./assets/icon.png"
+  }
+}
