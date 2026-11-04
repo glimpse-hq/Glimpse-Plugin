@@ -1,0 +1,11 @@
+{
+  "name": "glimpse",
+  "owner": { "name": "Glimpse", "url": "https://tryglimpse.cc" },
+  "plugins": [
+    {
+      "name": "glimpse",
+      "source": "./",
+      "description": "Search your Glimpse transcripts, follow live recordings, transcribe files, and ask you questions by voice. Runs on your computer."
+    }
+  ]
+}

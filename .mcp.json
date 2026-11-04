@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "glimpse": { "command": "glimpse", "args": ["mcp"] }
+  }
+}
